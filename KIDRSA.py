@@ -1,3 +1,7 @@
+## Nathan Binkley
+## BSCS CPSC Clemson University
+## Written May 7th 2019
+
 import math, re
 from decimal import *
 
